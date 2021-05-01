@@ -34,7 +34,5 @@ Roboto has a dual nature. It has a mechanical skeleton and the forms are largely
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDcyMTU3OTgsLTE0NzQ3NTA1OTgsNj
-Q4NTA2NDUwLC0yNDMyMTM3ODAsNjgzOTgzMzEzLDEzMDQ4Mjkz
-NzQsMTU3Njc2NDE0MCwxMDQ2NDI3MTM3XX0=
+eyJoaXN0b3J5IjpbLTExMDcyMTU3OThdfQ==
 -->
