@@ -17,13 +17,13 @@ Tech company pages will use a Card layout which will render the information chos
 Dark theme with sharp contrast
 
 ## **Typography**
-
+Font Pairing Lato paired 
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDgyOTM3NCwxNTc2NzY0MTQwLDEwND
-Y0MjcxMzddfQ==
+eyJoaXN0b3J5IjpbLTEwMTU1MTU0NTgsMTMwNDgyOTM3NCwxNT
+c2NzY0MTQwLDEwNDY0MjcxMzddfQ==
 -->
