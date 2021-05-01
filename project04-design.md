@@ -13,6 +13,10 @@ THe wireframe layout can be found here:
 
 **Tech Company Pages**
 Tech company pages will use a Card layout which will render the information chosen by the Information Architect as described in the project architecture document in pairs.
+Layouts are in github:
+[project04/CompanyPageLayout.PNG at main · vgupta117/project04 (github.com)](https://github.com/vgupta117/project04/blob/main/Images/CompanyPageLayout.PNG)
+[project04/CompanyPageLayout_Continued.PNG at main · vgupta117/project04 (github.com)](https://github.com/vgupta117/project04/blob/main/Images/CompanyPageLayout_Continued.PNG)
+
 
 
 ## **Color Pallet**
@@ -31,10 +35,12 @@ Roboto has a dual nature. It has a mechanical skeleton and the forms are largely
 
 [Lato Pairings](https://fonts.google.com/specimen/Lato#pairings)
 
+[project04/LatoFont.PNG at main · vgupta117/project04 (github.com)](https://github.com/vgupta117/project04/blob/main/Images/LatoFont.PNG)
+
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4OTIyMDU3LC0xMTA3MjE1Nzk4XX0=
+eyJoaXN0b3J5IjpbLTY2Nzc1NzA3NSwtMTEwNzIxNTc5OF19
 -->
