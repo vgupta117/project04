@@ -15,7 +15,11 @@ Tech company pages will use a Card layout which will render the information chos
 
 ## **Color Pallet**
 Since we're using the card layout, a light themed palette will be appropriate to add white space around the card content.  
-Background color: white or 
+Background color: white
+Border: light gold slim line
+Headers and text: Black or Greyscale
+Hover text: blue
+Example can be found at
 
 ## **Typography**
 Font Family : Lato paired Roboto
@@ -30,7 +34,7 @@ Roboto has a dual nature. It has a mechanical skeleton and the forms are largely
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg5MzcxNDgsNjQ4NTA2NDUwLC0yND
+eyJoaXN0b3J5IjpbLTE0NzQ3NTA1OTgsNjQ4NTA2NDUwLC0yND
 MyMTM3ODAsNjgzOTgzMzEzLDEzMDQ4MjkzNzQsMTU3Njc2NDE0
 MCwxMDQ2NDI3MTM3XX0=
 -->
