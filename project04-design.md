@@ -19,13 +19,13 @@ Dark theme with sharp contrast
 ## **Typography**
 Font Family : Lato paired Roberto
 [Lato Pairings](https://fonts.google.com/specimen/Lato#pairings)
-Lato is a sans serif typeface family with classical proportions that give harmony and elegance.  The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness.  For a tech comp
+Lato is a sans serif typeface family with classical proportions that give harmony and elegance.  The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness.  For a tech company website this mood 
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMDYwNjE5MywxMzA0ODI5Mzc0LDE1Nz
-Y3NjQxNDAsMTA0NjQyNzEzN119
+eyJoaXN0b3J5IjpbNjgzOTgzMzEzLDEzMDQ4MjkzNzQsMTU3Nj
+c2NDE0MCwxMDQ2NDI3MTM3XX0=
 -->
