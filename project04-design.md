@@ -17,13 +17,15 @@ Tech company pages will use a Card layout which will render the information chos
 Dark theme with sharp contrast
 
 ## **Typography**
-Font Pairing Lato paired 
+Font Family : Lato paired Roberto
+[Lato Pairings](https://fonts.google.com/specimen/Lato#pairings)
+Lato is a sans serif typeface family
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTU1MTU0NTgsMTMwNDgyOTM3NCwxNT
-c2NzY0MTQwLDEwNDY0MjcxMzddfQ==
+eyJoaXN0b3J5IjpbMTc5NzE3OTE2OCwxMzA0ODI5Mzc0LDE1Nz
+Y3NjQxNDAsMTA0NjQyNzEzN119
 -->
