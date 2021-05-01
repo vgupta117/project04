@@ -15,6 +15,7 @@ Tech company pages will use a Card layout which will render the information chos
 
 ## **Color Pallet**
 Dark theme with sharp contrast
+
 ## **Typography**
 
 
@@ -23,5 +24,6 @@ Dark theme with sharp contrast
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3Njc2NDE0MCwxMDQ2NDI3MTM3XX0=
+eyJoaXN0b3J5IjpbMTMwNDgyOTM3NCwxNTc2NzY0MTQwLDEwND
+Y0MjcxMzddfQ==
 -->
