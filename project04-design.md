@@ -8,6 +8,8 @@ This document describes the visual design of the website showing the top big tec
 
 **Landing Page**
 We will use a z-pattern layout for the landing page with links to each of the pages for the companies in the order described in the project architecture document.  The main focus area should be a carousel of images linking to each of the tech company pages.
+THe wireframe layout can be found here:
+[project04/Landing Page Layout.PNG at main · vgupta117/project04 (github.com)](https://github.com/vgupta117/project04/blob/main/Images/Landing%20Page%20Layout.PNG)
 
 **Tech Company Pages**
 Tech company pages will use a Card layout which will render the information chosen by the Information Architect as described in the project architecture document in pairs.
@@ -34,5 +36,5 @@ Roboto has a dual nature. It has a mechanical skeleton and the forms are largely
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDcyMTU3OThdfQ==
+eyJoaXN0b3J5IjpbOTM4OTIyMDU3LC0xMTA3MjE1Nzk4XX0=
 -->
