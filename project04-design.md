@@ -19,7 +19,7 @@ Background color: white
 Border: light gold slim line
 Headers and text: Black or Greyscale
 Hover text: blue
-Example can be found at
+Example can be found at [Our Project 3 Website](https://mwsundberg.digitalscholar.rochester.edu/project03/oberursel/)
 
 ## **Typography**
 Font Family : Lato paired Roboto
@@ -34,7 +34,7 @@ Roboto has a dual nature. It has a mechanical skeleton and the forms are largely
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQ3NTA1OTgsNjQ4NTA2NDUwLC0yND
-MyMTM3ODAsNjgzOTgzMzEzLDEzMDQ4MjkzNzQsMTU3Njc2NDE0
-MCwxMDQ2NDI3MTM3XX0=
+eyJoaXN0b3J5IjpbLTExMDcyMTU3OTgsLTE0NzQ3NTA1OTgsNj
+Q4NTA2NDUwLC0yNDMyMTM3ODAsNjgzOTgzMzEzLDEzMDQ4Mjkz
+NzQsMTU3Njc2NDE0MCwxMDQ2NDI3MTM3XX0=
 -->
