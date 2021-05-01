@@ -12,6 +12,7 @@ We will use a z-pattern layout for the landing page with links to each of the pa
 **Tech Company Pages**
 Tech company pages will use a Card layout which will render the information chosen by the Information Architect as described in the project architecture document in pairs.
 
+
 ## **Color Pallet**
 Dark theme with sharp contrast
 ## **Typography**
@@ -22,5 +23,5 @@ Dark theme with sharp contrast
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxNzM3ODU0LDEwNDY0MjcxMzddfQ==
+eyJoaXN0b3J5IjpbMTU3Njc2NDE0MCwxMDQ2NDI3MTM3XX0=
 -->
