@@ -18,17 +18,18 @@ Dark theme with sharp contrast
 
 ## **Typography**
 Font Family : Lato paired Roboto
-[Lato Pairings](https://fonts.google.com/specimen/Lato#pairings)
 Lato is a sans serif typeface family with classical proportions that give harmony and elegance.  The semi-rounded details of the letters gives Lato a feeling of warmth, while the strong structure provides stability and seriousness.  This fits the mood and purpose of a tech company website.
 
 Roboto has a dual nature. It has a mechanical skeleton and the forms are largely geometric. At the same time, the font features friendly and open curves. While some grotesks distort their letterforms to force a rigid rhythm, Roboto doesn’t compromise, allowing letters to be settled into their natural width. This makes for a more natural reading rhythm more commonly found in humanist and serif types.
+
+[Lato Pairings](https://fonts.google.com/specimen/Lato#pairings)
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2MTUzNTA4LC0yNDMyMTM3ODAsNjgzOT
+eyJoaXN0b3J5IjpbNjQ4NTA2NDUwLC0yNDMyMTM3ODAsNjgzOT
 gzMzEzLDEzMDQ4MjkzNzQsMTU3Njc2NDE0MCwxMDQ2NDI3MTM3
 XX0=
 -->
