@@ -7,7 +7,7 @@
 
 **Website**: Top Tech Companies of the World!
 
-**Description**: The website provides information about some of the top tech companies of the world as of May 2021: Facebook, Apple, Netflix, and Google including their founders & current leadership, history and current events, headquarters location, products and services, and financials.
+**Description**: The website provides information about the top tech companies of the world as of May 2021: Facebook, Apple, Amazon, Netflix, and Google including their founders & current leadership, history and current events, headquarters location, products and services, and financials.
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTA1MjI0NDUxM119
