@@ -2,6 +2,8 @@
 
 # **Project 4 Visual Design**
 
+**Team Lagos - Brian Kimani(IA), Vikram Gupta(Visual Designer)**
+
 This document describes the visual design of the website showing the top big tech companies of the world.
 
 ## **Layouts**
@@ -37,7 +39,11 @@ Roboto has a dual nature. It has a mechanical skeleton and the forms are largely
 
 [project04/LatoFont.PNG at main · vgupta117/project04 (github.com)](https://github.com/vgupta117/project04/blob/main/Images/LatoFont.PNG)
 
+May-6-2021
+## **Variations from original design:**
+1. The tech company layout sketches showed a paired card layout.  While we kept the card layout, we decided to make the subsections have varying sized cards to provide a better visual flow and showcase the content better.
 
+2. Original design had chosen a golden border which didnt fit in with the rest of the theme. We switched to the darker secondary color for the border which was more in harmony with the rest of the page.
 
 
 > Written with [StackEdit](https://stackedit.io/).
